@@ -7,6 +7,7 @@
 2.  Royfran Roger Valentino - 122140239
 3.  Alfino Pardiansyah Hutahaean - 122140160126
 4.  Hayyatul Fajri - 122140103
+5.  Dian Maulana - 122140341
 
 ---
 &copy; Interaction Design 2025.
