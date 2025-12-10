@@ -19,9 +19,5 @@ Link Figma: https://www.figma.com/design/04kyQNzbgzxAH8OoUXBLFX/Untitled?t=KtZ7y
 
 Link FigJam:
 https://www.figma.com/board/nWMAZMR29sbkbOz29FoAVd/Untitled?t=KtZ7ySWBK6k2Nju6-1 
-
-Link doc laporan akhir:
-https://docs.google.com/forms/d/e/1FAIpQLScnPpuU-2bLTIpB9CKlFp_vD30r3nMNx-GXqZ-eQIynMJVswQ/viewform?usp=sharing&ouid=111543933422987110450
-
 ---
 &copy; Interaction Design 2025.
